@@ -1,5 +1,5 @@
 # Encrypt-Lua-GG-V3
-<h2 align = "center">This is my strongest encrypted version, it's quite hard to decipher completely, i hope it helps a little to protect your script source code, it can cause errors during encryption, i wrote Comments and how to fix errors.</h2>
+<h4 align = "center">This is my strongest encrypted version, it's quite hard to decipher completely, i hope it helps a little to protect your script source code, it can cause errors during encryption, i wrote Comments and how to fix errors.</h4>
 Encryption feature.
 Enhanced antilog/load/hook (optimized for fast start scripting)
 Enhanced obfuscate lasm
