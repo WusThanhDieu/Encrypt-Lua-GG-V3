@@ -3,7 +3,7 @@
 <h4>Encryption feature.</h4>
 <h4>Enhanced antilog/load/hook (optimized for fast start scripting)</h4>
 <h4>Enhanced obfuscate lasm</h4>
-<h4>Simple (but non-trivial) anti-sstool</h4>
+<h4>Simple anti-sstool (but non trivial)</h4>
 <h4>The person who helped me in this encoder:</h4>
 <h4>OnlyTris</h4>
 <h4>TisNguyen ( 1 Number of Blocks )</h4>
